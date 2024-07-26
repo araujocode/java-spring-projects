@@ -65,10 +65,6 @@ Follow these steps to set up and run the project on your local machine:
 
 Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request.
 
-## Contact
-
-Connect with the project author on [LinkedIn](https://www.linkedin.com/in/gustavo-ruiz-810a851b5/) for any questions or suggestions.
-
 ---
 
 **License:** This project is licensed under the terms of the [GNU General Public License (GPL)](LICENSE).
