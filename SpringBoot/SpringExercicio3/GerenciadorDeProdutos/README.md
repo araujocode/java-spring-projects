@@ -34,7 +34,6 @@ The **Spring Boot 3, Spring Security 6, and JWT Token Authentication** project p
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-blue): Framework for creating production-ready Spring applications.
 - ![Spring Security](https://img.shields.io/badge/Spring%20Security-6-green): Framework for securing Spring applications.
 - ![JWT](https://img.shields.io/badge/JWT-JSON%20Web%20Token-yellow): Token-based authentication using JSON Web Tokens.
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue): Database for storing user-related data.
 
 ## Getting Started
 
